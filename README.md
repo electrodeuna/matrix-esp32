@@ -10,4 +10,4 @@
 Para que funcione el codigo debes instalar librerias MD_Parola y MD_MAX72xx. Ademas, hay que modificar los datos del Wifi en la linea 22 y 23 del codigo con los datos de tu Wifi (Nombre y Password).
 Para obtener la IP donde conectarse hay que abrir el Monitor Serie dede el Arduino IDE, esto se hace desde Herramientas -> Monitor Serie
 
-![image](https://github.com/electrodeuna/matrix-esp32/assets/85527788/846d0bcc-e497-451d-a23f-8051b57855b0)
+![image](https://github.com/electrodeuna/matrix-esp32/assets/85527788/602dcde3-9f09-4c67-b69f-4d1845558c17)
