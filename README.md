@@ -1,5 +1,7 @@
 # Mensajes con Matriz 8x32 y Esp32
 
+![WhatsApp Image 2023-11-09 at 20 05 34](https://github.com/electrodeuna/matrix-esp32/assets/85527788/70ff2312-bb24-42a3-af1e-96c499a50bac)
+
 ## Componentes
 - Nodemcu Esp32
 - Matriz Led 8x32
