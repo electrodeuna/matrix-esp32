@@ -35,16 +35,12 @@ char curMessage[BUF_SIZE];
 char newMessage[BUF_SIZE];
 bool newMessageAvailable = false;
 
-
 // Current time
 unsigned long currentTime = millis();
 // Previous time
 unsigned long previousTime = 0; 
 // Define timeout time in milliseconds (example: 2000ms = 2s)
 const long timeoutTime = 2000;
-
-String output26State = "off";
-String output27State = "off";
 
 const char WebResponse[] = "HTTP/1.1 200 OK\nContent-Type: text/html\n\n";
 
